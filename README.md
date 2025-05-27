@@ -1,15 +1,15 @@
-<h1 align="center">Hey 👋 Bem-vindo(a) ao meu GitHub!</h1>
+<h1 align="center">Olá 👋 Bem-vindo(a) ao meu GitHub!</h1>
 
-<p align="center">Meu nome é [Seu Nome] e sou estudante de Análise e Desenvolvimento de Sistemas, direto de Brasília 🇧🇷</p>
+<p align="center">Meu nome é Isadora e sou estudante de Análise e Desenvolvimento de Sistemas, direto de Brasília 
 
 ---
 
 ## 🧠 Sobre mim
 
-✨ Em transição de carreira (de Engenharia Ambiental para TI)  
+ 
 👨‍💻 Explorando o mundo da programação com foco em front-end e back-end  
 📚 Sempre aprendendo e colocando a mão no código  
-🎯 Em busca da minha primeira oportunidade na área de TI!
+
 
 ---
 
@@ -46,9 +46,8 @@
 
 ## 💡 Curiosidades
 
-- ☕ Viciado(a) em café + código  
-- 📦 Apaixonado(a) por organização de repositórios  
-- 💬 Sempre pronto(a) pra conversar e aprender algo novo  
+
+- 💬 Sempre pronta pra conversar e aprender algo novo  
 
 
 
