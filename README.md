@@ -4,7 +4,7 @@
 
 ---
 
-##🧠 Sobre mim
+## 🧠 Sobre mim
 
  
 👨‍💻 Explorando o mundo da programação com foco em front-end e back-end  
